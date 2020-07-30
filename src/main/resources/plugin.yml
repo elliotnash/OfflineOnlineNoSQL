@@ -1,0 +1,4 @@
+name: Offlineonline
+version: ${project.version}
+main: offlineonline.offlineonline.Main
+description: Allow offline accounts online

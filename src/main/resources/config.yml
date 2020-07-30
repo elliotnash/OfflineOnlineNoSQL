@@ -1,0 +1,24 @@
+Settings:
+  authServer: "survival"
+  mainServer: "survival"
+msg:
+  base:
+    prefix: "§9[§3Login§9]> §2"
+    error: "§9[§4Login§9]> §c"
+    no_permissions: "§4ERROR §9§l> §r§bYou don't have permission to do that!"
+    command_use: "§9[§4Login§9]> §r§cCommand use: §6$command"
+  info:
+    notAllowedCrackedUser: "Invalid username."
+    pluginDisableKickMsg: "You have been disconnected \n Proxy restarting"
+    successfulConnection: "The player $player is connected"
+    authServerDown: "The authenticator server is down. \n sPlease tell the server administrator"
+  adminCommands:
+    pluginDisable: "The plugin is now disabled !"
+    pluginEnable: "The plugin is now enabled !"
+    playerAddedToAllowedCrackedList: "$player is now allowed to used a no-official version"
+    playerRemovedFromAllowedCrackedList: "$player is no longer allowed to used a no-official version"
+    listAllowedPlayers: "The allowed player are : "
+  invalidPlayer:
+    tooLongPassword: "$player have a too long name"
+    invalidCharacter: "$player contain an invalid character"
+allowedPlayers:
